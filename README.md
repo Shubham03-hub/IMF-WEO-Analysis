@@ -1,9 +1,5 @@
 # 🌍 IMF WEO Global Economic Analysis
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 End-to-end data science project analysing IMF World Economic Outlook data across
 210 countries, 145 indicators, and 52 years (1980–2031).
 
@@ -76,6 +72,22 @@ imf-weo-analysis/
 ```
 
 ---
+
+## 📊 Power BI Dashboard Preview
+
+### Executive Summary
+![Executive Summary](screenshots/executive_summary.png)
+
+### Economic Growth Analysis
+![Economic Growth Analysis](screenshots/economic_growth_analysis.png)
+
+### Inflation & Employment Analysis
+![Inflation & Employment Analysis](screenshots/inflation_employment_analysis.png)
+
+### Country Deep Dive
+![Country Deep Dive](screenshots/country_deep_dive.png)
+
+-----
 
 ## Troubleshooting
 
