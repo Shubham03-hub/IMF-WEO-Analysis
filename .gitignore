@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+data/raw/
+# Uncomment the lines below if you want to exclude model files from git
+# (they can be large). Use Git LFS or regenerate from notebooks instead.
+# models/*.pkl
