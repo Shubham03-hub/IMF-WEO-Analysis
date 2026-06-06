@@ -82,7 +82,7 @@ imf-weo-analysis/
 ![Economic Growth Analysis](screenshots/economic_growth_analysis.png)
 
 ### Inflation & Employment Analysis
-![Inflation & Employment Analysis](screenshots/inflation_employment_analysis.png)
+![Inflation & Employment Analysis](screenshots/inflation_&_employment_analysis.png)
 
 ### Country Deep Dive
 ![Country Deep Dive](screenshots/country_deep_dive.png)
