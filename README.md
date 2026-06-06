@@ -70,9 +70,7 @@ imf-weo-analysis/
 ├── convert_to_ipynb.py         ← converts .py notebooks → .ipynb
 └── requirements.txt
 ```
-
 ---
-
 ## 📊 Power BI Dashboard Preview
 
 ### Executive Summary
@@ -118,3 +116,9 @@ imf-weo-analysis/
 ## Technologies
 
 Python 3.11 · pandas · numpy · scikit-learn · XGBoost · Streamlit · Plotly · Seaborn · Power BI
+----
+## Author
+## Shubham Panchal
+Data Science | Data Analytics | Machine Learning | Generative AI
+Dedicated to developing practical, end-to-end data science and machine learning solutions.
+LinkedIn: https://linkedin.com/in/shubham-panchal-a100282a8
